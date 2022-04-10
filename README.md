@@ -15,4 +15,4 @@ Create a class ShiftCipher that takes the numerical value of the shift as a cons
 - But if a character is shifted outside the alphabet in either direction it should be wrapped around to the other side. For example, encrypting a y with a shift of 4 results in C and decrypting an A with a shift of 1 result in z.
 
 The code has comments explaining the logic and methods I used in order to achieve the final results.
-It used <a src="https://en.wikipedia.org/wiki/List_of_Unicode_characters" target='_blank'>Unicode Characters</a> values in order to navigate in the alphabet.
+<p>It used <a href="https://en.wikipedia.org/wiki/List_of_Unicode_characters">Unicode Characters</a> values in order to navigate the alphabet.</p>
